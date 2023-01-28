@@ -73,10 +73,13 @@ NOR
 ![image](https://user-images.githubusercontent.com/123537051/215270263-373bbe7f-2a43-4b21-ba9a-b78cf17e00e9.png)
 
 ## Timing Diagram
+
 NAND
 ![image](https://user-images.githubusercontent.com/123537051/215270370-35a160cd-80ef-49e5-b66d-5e56adbb329d.png)
+
 NOR
 ![image](https://user-images.githubusercontent.com/123537051/215270380-8fd8ec52-511b-4675-a68b-bd32f0f27dc2.png)
+
 ## Truth table
 ![image](https://user-images.githubusercontent.com/123537051/215270438-f410cfee-4f01-48c6-bbca-3b41e325cc9f.png)
 ![image](https://user-images.githubusercontent.com/123537051/215270454-f95cbdce-4b11-4156-810f-61dacc4b92b2.png)
