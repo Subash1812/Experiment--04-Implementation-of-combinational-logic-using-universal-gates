@@ -65,10 +65,13 @@ endmodule
 
 ## Output:
 ## RTL
+
 NAND
 ![image](https://user-images.githubusercontent.com/123537051/215270227-82b105d5-7c81-4e2f-b01e-7e520c95d0ac.png)
+
 NOR
 ![image](https://user-images.githubusercontent.com/123537051/215270263-373bbe7f-2a43-4b21-ba9a-b78cf17e00e9.png)
+
 ## Timing Diagram
 NAND
 ![image](https://user-images.githubusercontent.com/123537051/215270370-35a160cd-80ef-49e5-b66d-5e56adbb329d.png)
